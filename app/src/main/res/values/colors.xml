@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="navigationBarColor">#FFFFFF</color>
+    <color name="dividerColor">#FFFFFF</color>
+    <color name="primaryColor">#4a6176</color>
+    <color name="primaryColorDark">#3b4e5e</color>
+    <color name="actionable">#718394</color>
+    <color name="actionableImportant">#4285f4</color>
+    <color name="primaryTextDarkBg">#FFFFFF</color>
+    <color name="primaryTextLightBg">#212121</color>
+    <color name="cardInfoText">#757575</color>
+</resources>
